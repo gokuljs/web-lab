@@ -1,0 +1,16 @@
+table {
+    margin: 0 auto;
+    margin-top: 250px;
+    box-sizing: border-box;
+}
+
+button {
+    margin: 0px;
+    padding: 3px;
+    width: 60px;
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+}
