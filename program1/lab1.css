@@ -4,6 +4,12 @@ table {
     box-sizing: border-box;
 }
 
+h1 {
+    margin: 0 auto;
+    text-transform: uppercase;
+    /* margin: 0 auto; */
+}
+
 button {
     margin: 0px;
     padding: 3px;
@@ -11,6 +17,11 @@ button {
 }
 
 input {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.clear {
     width: 100%;
     box-sizing: border-box;
 }
