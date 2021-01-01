@@ -1,3 +1,19 @@
-body {
-    background-color: orange;
+table td {
+    border: 1px solid black;
+    width: 40px;
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+table {
+    margin: 0px auto;
+    width: 20%;
+    height: 30%;
+}
+
+button {
+    width: 100%;
 }

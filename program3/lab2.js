@@ -1,0 +1,1 @@
+console.log("lab3 three program for text shrinking and text ")
