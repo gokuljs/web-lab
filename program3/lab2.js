@@ -1,10 +1,11 @@
 console.log("lab3 three program for text shrinking and text ")
 var message = document.getElementById("test")
+console.log(message)
 console.log("content ot be inceased and shrinked", message.innerText)
 var var1 = setInterval(increasing, 1000)
     // setinterval attribute repeatedly calls the fucntion 
-var starting = 5;
-var ending = 50;
+var starting = 5; // intial value
+var ending = 50; // final value
 
 function increasing() {
     message.setAttribute('style', 'font-size:' + starting + "px; color:red;")
