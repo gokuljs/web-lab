@@ -14,6 +14,9 @@ for (var i = 0; i < str.length; i++) {
 }
 
 number = prompt("enter your number to print it in reverse order")
-document.write("<br/>the reversed number is " + number.split("").reverse().join(""))
+document.write("<br/>the reversed number is " + number.split("").reverse())
+    //1234
+    //['1','2',]
+
 
 // document.write("reverse of a given number is" + number.reverse())
