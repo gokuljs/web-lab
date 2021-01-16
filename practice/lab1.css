@@ -1,27 +1,14 @@
 table {
+    border: 1px solid black;
+    height: 100px;
     margin: 0 auto;
-    margin-top: 250px;
-    box-sizing: border-box;
 }
 
-h1 {
-    margin: 0 auto;
-    text-transform: uppercase;
-    /* margin: 0 auto; */
+td {
+    border: 1px solid black;
 }
 
 button {
-    margin: 0px;
-    padding: 3px;
-    width: 60px;
-}
-
-input {
     width: 100%;
-    box-sizing: border-box;
-}
-
-.clear {
-    width: 100%;
-    box-sizing: border-box;
+    height: 20px;
 }
