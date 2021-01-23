@@ -1,0 +1,11 @@
+table {
+    border: 1px solid black
+}
+
+th {
+    text-transform: uppercase;
+}
+
+td {
+    border: 1px solid black;
+}
